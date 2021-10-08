@@ -25,7 +25,7 @@ pip3 install opencv-python
 ```bash
 pip3 install mediapipe
 ```
-3. You need cvzone library. In most videos or blog posts people use cvzone with version 1.5. At first I had some issue recording to this problem because some codes are not working with cvzone with version 1.5 or higher but I addressed to those problem, and fix them. YOu can use this code without worrying about version problems.
+3. You need cvzone library. In most videos or blog posts people use cvzone with version 1.5. At first I had some issue recording to this problem because some codes are not working with cvzone with version 1.5 or higher but I addressed to those problems, and fixed them. YOu can use this code without worrying about version problems.
 ```bash
 pip3 install cvzone
 ```
